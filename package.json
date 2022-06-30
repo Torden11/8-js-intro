@@ -7,6 +7,8 @@
     "dev": "nodemon",
     "numbers": "nodemon ./js/numbers.js",
     "strings": "nodemon ./js/strings.js",
+    "uzduotys": "nodemon ./js/uzduotys.js",
+
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
