@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon",
+    "if": "nodemon ./js/if.js",
     "boolean": "nodemon ./js/boolean.js",
     "array": "nodemon ./js/array.js",
     "for": "nodemon ./js/for.js",
