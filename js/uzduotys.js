@@ -1,3 +1,4 @@
+// Kintamuju inicijavimas
 // 1 uzduotis
 
 
@@ -23,12 +24,14 @@ const vilnius3 =`lazdynai naujamiestis`
 console.log(vilnius3);
 console.log(vilnius1, vilnius2, vilnius3);
 
-//3 uzduotis
+
+// Veiksmai su kintamaisiais
+//1 uzduotis
 
 const suma = skaicius1 + skaicius2 + skaicius3;
 console.log(suma);
 
-//4 uzduotis
+//2 uzduotis
 
 const tarpas = "zirmunai pasilaiciai" + ' plytine sauletekis';
 console.log(tarpas);
