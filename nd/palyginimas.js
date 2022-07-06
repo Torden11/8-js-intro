@@ -51,42 +51,42 @@ console.log (salis1.length);
 const salis2 = 'Estija';
 console.log (salis2.length);
 
-if  (salis1 > salis2) {
+if  (salis1.length > salis2.length) {
     console.log('pomidoras');
 }
 else {
     console.log('Bandykite kita karta');
 }
 
-if  (salis1 < salis2) {
+if  (salis1.length < salis2.length) {
     console.log('pomidoras');
 }
 else {
     console.log('Bandykite kita karta');
 }
 
-if  (salis1 === salis2) {
+if  (salis1.length === salis2.length) {
     console.log('pomidoras');
 }
 else {
     console.log('Bandykite kita karta');
 }
 
-if  (salis1 !== salis2) {
+if  (salis1.length !== salis2.length) {
     console.log('pomidoras');
 }
 else {
     console.log('Bandykite kita karta');
 }
 
-if  (salis1 >= salis2) {
+if  (salis1.length >= salis2.length) {
     console.log('pomidoras');
 }
 else {
     console.log('Bandykite kita karta');
 }
 
-if  (salis1 <= salis2) {
+if  (salis1.length <= salis2.length) {
     console.log('pomidoras');
 }
 else {
@@ -97,6 +97,17 @@ console.log("------------------------------");
 
 const salys = ["lietuva", 'uk', 'estija', 'usa'];
 console.log(salys[0].length, salys[1].length, salys[2].length, salys[3].length );
+
+console.log("------------------------------");
+
+/*for (let i = 0; i < salys.length; i++) {
+    if  (salis1 > salis2) {
+        console.log('pomidoras');
+    }
+    else {
+        console.log('Bandykite kita karta');
+    }
+*/
 
 
 
