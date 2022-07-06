@@ -17,6 +17,7 @@
     "strings": "nodemon ./js/strings.js",
     "kintamieji": "nodemon ./nd/kintamieji.js",
     "palyginimas": "nodemon ./nd/palyginimas.js",
+    "for_tasks": "nodemon ./nd/for_tasks.js",
 
     "test": "echo \"Error: no test specified\" && exit 1"
   },
