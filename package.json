@@ -15,7 +15,8 @@
     "for": "nodemon ./js/for.js",
     "numbers": "nodemon ./js/numbers.js",
     "strings": "nodemon ./js/strings.js",
-    "uzduotys": "nodemon ./js/uzduotys.js",
+    "kintamieji": "nodemon ./nd/kintamieji.js",
+    "palyginimas": "nodemon ./nd/palyginimas.js",
 
     "test": "echo \"Error: no test specified\" && exit 1"
   },
