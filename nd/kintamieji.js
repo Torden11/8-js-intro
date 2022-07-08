@@ -65,14 +65,18 @@ console.log(suma1);
 
 //4 uzduotis
 
-console.log('------------------------');
-
-const gatves1 = ['ziedu', 'liepu', 'aguonu', 'mokyklos', 'sauletekio'];
 //gatves1.reverse ();
 //console.log(gatves1);
 
-gatves1.reverse ();
-for (let i = 0; i < gatves1.length; i++) {
+console.log('------------------------paprastas');
+
+const gatves1 = ['ziedu', 'liepu', 'aguonu', 'mokyklos', 'sauletekio'];
+const suma2 = gatves1[4] + ' ,' + gatves1[3] + ' ,' + gatves1[2] + ' ,' + gatves1[1] + ' ,' + gatves1[0];
+console.log(suma2);
+
+console.log('------------------------FOR');
+
+for (let i = gatves1.length-1; i >=0; i--) {
     const mano = gatves1[i] + ',';
     console.log(mano);
 }
