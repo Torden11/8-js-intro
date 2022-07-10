@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "nodemon",
     "letters": "nodemon ./nd/letters.js",
+    "loops": "nodemon ./js/loops.js",
     "bigNum": "nodemon ./nd/bigNum.js",
     "numSize_1_2": "nodemon ./nd/numSize_1_2.js",
     "numSize_5": "nodemon ./nd/numSize_5.js",
