@@ -76,9 +76,9 @@ let count = 0;
 
 const m1 = [3, 5, 7];
 
-for(let j = 0;j<3;j++)
+for(let j = 0; j<3; j++)
 {
-    for(let i = 0;i <= 11; i++){
+    for(let i = 0; i <= 11; i++){
         if((i % m1[j])===0)
         {
             count++;
