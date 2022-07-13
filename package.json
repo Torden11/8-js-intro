@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "nodemon",
     "spread": "nodemon ./js/spread.js",
+    "rest": "nodemon ./js/rest.js",
     "dalyba": "nodemon ./nd/dalyba.js",
     "arrow": "nodemon ./js/arrow.js",
     "object": "nodemon ./js/object.js",
