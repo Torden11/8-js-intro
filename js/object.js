@@ -76,3 +76,9 @@ for (let i = 0; i < students.length; i++) {
     const labas = `Sveiki, as ${student.name} ir man ${student.age} metu.`;
     console.log(labas);
 }
+
+person.ugis = 200;
+console.log(person);
+
+const personKeys = Object.keys(person);
+console.log(personKeys);
