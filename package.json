@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon",
+    "class": "nodemon ./js/class.js",
     "ternary": "nodemon ./js/ternary.js",
     "spread": "nodemon ./js/spread.js",
     "rest": "nodemon ./js/rest.js",
