@@ -91,3 +91,4 @@ if (yraKrituliai) {
         console.log('Degtine');
     }
 }
+
